@@ -12,5 +12,5 @@ This script generates the numbers from 1 to 10 in a random order without printin
 
 command | seq | sort | flag "(R)" |
 --- | --- | --- | --- |
-usage | to generate the sequence between the upper limit and the lower limit | sort the values based on the user requirements | R- flag is used for listing the values in arandom order |
+usage | to generate the sequence between the upper limit and the lower limit | sort the values based on the user requirements | R- flag is used for listing the values in random order |
 
