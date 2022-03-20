@@ -1,9 +1,14 @@
 # sort.sh script
 
-# This script generates the numbers from 1 to 10 in a random order without printing duplicate values.
+This script generates the numbers from 1 to 10 in a random order without printing duplicate values.
 
 # Usage
 
 - clone the repo to the local machine
 - run the sort.sh script as shown below
 - ./sort.sh OR sh sort.sh
+
+# Script review
+
+| Command| Usage|
+| seq|to generate the sequence between the upper limit and the lower limit|
