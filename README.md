@@ -10,5 +10,5 @@ This script generates the numbers from 1 to 10 in a random order without printin
 
 # Script review
 
-| Command| Usage|
+| Command|| Usage|
 | seq|to generate the sequence between the upper limit and the lower limit|
