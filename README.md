@@ -11,7 +11,7 @@ This script generates the numbers from 1 to 10 in a random order without printin
 # Script review
 
 command | seq | sort |
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- |
 usage | to generate the sequence between the upper limit and the lower limit | sort the values based on the user requirements | 
 
 | Command|| Usage|
