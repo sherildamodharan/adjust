@@ -10,9 +10,9 @@ This script generates the numbers from 1 to 10 in a random order without printin
 
 # Script review
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+command | seq | sort |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+usage | to generate the sequence between the upper limit and the lower limit | sort the values based on the user requirements | 
 
 | Command|| Usage|
 | seq|to generate the sequence between the upper limit and the lower limit|
